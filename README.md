@@ -25,7 +25,6 @@ This project analyzes a dataset of Amazon sales data with the goal of uncovering
 The dataset contains transactional information from Amazon, detailing product categories, sales, revenue, and customer-related information.
 
 ### Tools
-- **SQL**: Used for data extraction, transformation, and aggregation.
 - **Excel**: Assisted in data cleaning, initial data exploration, and preliminary visualizations.
 
 ## 🔍 Steps and Methodology
@@ -34,13 +33,7 @@ The dataset contains transactional information from Amazon, detailing product ca
    - Imported the dataset into SQL and Excel, removing any missing or duplicate values.
    - Standardized column names and formats to ensure consistency for analysis.
 
-2. **SQL Analysis**
-   - Used SQL queries to:
-     - Filter and aggregate sales data by product category, region, and sales period.
-     - Calculate metrics such as total revenue, average order value, and customer segments.
-   - Extracted key insights from SQL results, focusing on sales patterns, high-performing categories, and revenue growth.
-
-3. **Excel Analysis**
+2. **Excel Analysis**
    - Conducted preliminary analysis in Excel with pivot tables and charts.
    - Examined initial trends in revenue, product popularity, and seasonality.
    - Created interactive dashboards to visualize:
@@ -48,14 +41,6 @@ The dataset contains transactional information from Amazon, detailing product ca
      - Top-selling product categories and regions.
      - Customer segments based on purchasing behavior.
      - Revenue breakdown and profit margins by product category.
-
-
-## 📊 Insights and Findings
-
-- **Top Product Categories**: [Insight about most popular product categories]
-- **Seasonal Sales Trends**: [Insight on seasonal sales or peak periods]
-- **Customer Segmentation**: [Insights about various customer segments and their purchasing behaviors]
-- **Revenue Growth**: [Insights about monthly/quarterly growth and profitability patterns]
 
 ## 📈 Visualizations
 
